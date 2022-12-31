@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib  
+sklearn
+ipywidgets
+notebook
+ensure
+py-youtube
+
+# dev_requires
+pytest  
+black  
+flake8  
+tox  
+mypy  
+-e .
