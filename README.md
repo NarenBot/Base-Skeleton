@@ -1,4 +1,4 @@
-## Setup of Base Skeleton for Python Projects:
+# Setup Base Skeleton for Python Projects:
 
 ### Steps to follow:
 * Create Template.py for generating below list of files:
